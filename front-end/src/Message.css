@@ -6,3 +6,8 @@
   font-size: calc(10px + 0.25vmin); /* half the font size of the header */
   color: #505050;
 }
+
+img{
+  width:500px;
+  
+}
